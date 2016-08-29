@@ -6,6 +6,7 @@ Undergraduate Students
 ----------------------
 
 * Gregory A Jordan, [slab-bulkhead](https://github.com/slab-bulkhead)
+* Crystal Fisher, [crystalmfisher] (https://github.com/crystalmfisher)
 
 Faculty Members
 ---------------
